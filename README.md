@@ -17,7 +17,7 @@ Neste repositório, você encontrará uma variedade de projetos relacionados ao 
 
 ## Contato
 
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seuinstagram)
+- [![Instagram](https://www.instagram.com/dev.brun0/)
 - [![Email](https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](mailto:seuemail@email.com)
 
 ## Outros Links
