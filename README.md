@@ -8,8 +8,8 @@ Olá! Meu nome é Bruno e sou um entusiasta de desenvolvimento de jogos indie, a
 
 ## Habilidades
 
-- Linguagem de Programação: ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
-- Engine: Unity
+- Linguagem de Programação: ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+- Engine: ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ## Projetos
 
@@ -17,13 +17,13 @@ Neste repositório, você encontrará uma variedade de projetos relacionados ao 
 
 ## Contato
 
-- LinkedIn: [Seu Perfil do LinkedIn](https://www.linkedin.com/seuperfil)
-- Email: seuemail@email.com
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seuinstagram)
+- [![Email](https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](mailto:seuemail@email.com)
 
 ## Outros Links
 
+- [![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://seuitchio)
 - [Portfolio de Jogos](https://seusiteportfolio.com)
 - [Blog Pessoal](https://seublog.com)
 
 Sinta-se à vontade para entrar em contato comigo se você estiver interessado em colaborar em projetos de jogos ou se quiser trocar ideias sobre o desenvolvimento de jogos indie. Vamos criar experiências incríveis juntos! 🚀
-
