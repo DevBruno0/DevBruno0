@@ -8,7 +8,7 @@ Olá! Meu nome é Bruno e sou um entusiasta de desenvolvimento de jogos indie, a
 
 ## Habilidades
 
-- Linguagem de Programação: C#
+- Linguagem de Programação: ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
 - Engine: Unity
 
 ## Projetos
@@ -26,3 +26,4 @@ Neste repositório, você encontrará uma variedade de projetos relacionados ao 
 - [Blog Pessoal](https://seublog.com)
 
 Sinta-se à vontade para entrar em contato comigo se você estiver interessado em colaborar em projetos de jogos ou se quiser trocar ideias sobre o desenvolvimento de jogos indie. Vamos criar experiências incríveis juntos! 🚀
+
