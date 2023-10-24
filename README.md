@@ -23,6 +23,7 @@ Neste repositório, você encontrará uma variedade de projetos relacionados ao 
 ## Outros Links
 
 - [![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://brunogamedev.itch.io/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-dos-santos-de-jesus-746207230/)
 - [Portfolio de Jogos](https://seusiteportfolio.com)
 - [Blog Pessoal](https://seublog.com)
 
