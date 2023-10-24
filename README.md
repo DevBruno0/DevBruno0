@@ -52,10 +52,9 @@ Neste repositório, você encontrará uma variedade de projetos relacionados ao 
 
 Sinta-se à vontade para explorar esses jogos e entre em contato se quiser saber mais sobre minha contribuição em cada um deles. 🕹️
 
-Sinta-se à vontade para explorar esses jogos e entre em contato se quiser saber mais sobre minha contribuição em cada um deles. 🕹️
+## Links Adicionais 🌐
 
+- [Blog Pessoal (Instagram)](https://www.instagram.com/bru.n027/)
 
-
-- [Blog Pessoal](https://seublog.com)
 
 Sinta-se à vontade para entrar em contato comigo se você estiver interessado em colaborar em projetos de jogos ou se quiser trocar ideias sobre o desenvolvimento de jogos indie. Vamos criar experiências incríveis juntos! 🚀
