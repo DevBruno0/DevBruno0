@@ -22,7 +22,7 @@ Neste repositório, você encontrará uma variedade de projetos relacionados ao 
 
 ## Outros Links
 
-- [![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://seuitchio)
+- [![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://brunogamedev.itch.io/)
 - [Portfolio de Jogos](https://seusiteportfolio.com)
 - [Blog Pessoal](https://seublog.com)
 
