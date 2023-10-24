@@ -26,29 +26,29 @@ Neste repositório, você encontrará uma variedade de projetos relacionados ao 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-dos-santos-de-jesus-746207230/)
 
 ## Portfólio de Jogos 🎮
-1. Jogo de Visual Novel:
+1. Jogo de Visual Novel: ALENKAR A ORIGEM PART 1
 
-   - Título do Jogo: ALENKAR A ORIGEM PART 1
-   - Descrição: A história gira em torno de Mark Alenkar, uma jovem águia careca que está prestes a concluir seu último ano na faculdade, acompanhada por seu fiel amigo Timotty e orientada pelo sábio mentor, Sr. Ezekiel. Contudo, tudo muda quando Mark tem um sonho profético que insiste em permanecer em sua mente, perturbando sua rotina acadêmica. Mistérios surgem com sussurros enigmáticos, e Mark se vê intrigado com o significado do sonho. Embarque nessa trama repleta de segredos e desvende os enigmas que a aguardam.
-   - Sua contribuição: Fiz toda a programação/lógica do jogo. Como é um jogo em visual novel, a programação gira em torno da posição dos personagens, mudanças de cenários e interação entre os personagens do jogo. O jogo foi feito na Engine Ren'py, uma das melhores para o desenvolvimento de visual novels.
+   - Descrição: Uma história envolvente que segue Mark Alenkar, um jovem águia careca, enquanto ele desvenda um sonho profético misterioso. Exploração e enigmas esperam por você.
+   - Minha contribuição: Responsável pela programação/lógica do jogo na Engine Ren'py.
 
-2. Jogo de Tabuleiro:
+2. Jogo de Tabuleiro: O Grande Roubo
 
-   - Título do Jogo: O Grande Roubo
-   - Descrição: O Grande Roubo é um jogo de tabuleiro composto por 3-6 jogadores. O objetivo do jogo é obter a maior quantidade de obras e itens valiosos no cenário. Cada jogador recebe uma carta que mostra o seu personagem, e cada personagem possui uma habilidade única de combate ou de escape em caso de confronto com outros ladrões. Use suas habilidades de inteligência e as do seu personagem para criar a melhor estratégia e não ser pego. Ganha quem obtiver a maior quantidade de itens roubados.
-   - **Sua contribuição:** Como não há programação em um jogo de tabuleiro, fiz parte de toda a criação lógica do jogo, desde a idealização das habilidades de cada personagem até as regras e os objetivos do jogo.
+   - Descrição: Um jogo de estratégia de tabuleiro. Planeje roubos e evite ser pego, ganhando quem acumular o maior número de itens valiosos.
+   - Minha contribuição: Contribuí com a criação lógica, habilidades de personagens e regras.
 
-3. Jogo de Plataforma 2D (1º Projeto):
+3. Jogo de Plataforma 2D (1º Projeto): AS AVENTURAS DE RAIJIN: OS ELEMENTOS
 
-   - Título do Jogo: AS AVENTURAS DE RAIJIN: OS ELEMENTOS
-   - Descrição: Raijin Adventures: The Elements é um jogo 2D de plataforma no qual os jogadores assumem o papel de uma raposa chamada Raijin. O jogo foi desenvolvido para a plataforma PC, com gráficos coloridos e encantadores. As mecânicas principais são a plataforma, nas quais os jogadores controlam Raijin enquanto ele salta, desliza e corre por diferentes fases. Ele é capaz de controlar os elementos.
-   - Sua contribuição:** Fiz toda a programação/lógica do jogo, incluindo a interação do teclado e do mouse nas movimentações do personagem, a interação com o cenário, coletas e tomar dano. A linguagem de programação usada foi C# na Engine Unity.
+   - Descrição: Jogo de plataforma 2D com a raposa Raijin e controle de elementos.
+   - Minha contribuição: Programação/lógica do jogo na Engine Unity.
 
-4. Jogo de Plataforma 2D (Evento "GameJAN"):
+4. Jogo de Plataforma 2D (Evento "GameJAN"): A Última Esperança
 
-   - Título do Jogo: A Última Esperança
-   - Descrição: O jogo foi desenvolvido por uma equipe de estudantes em 3 dias. A última esperança é um jogo 2D de plataforma no qual o jogador precisa derrotar os robôs e coletar os itens que são necessários para passar de fase e derrotar o boss no final. Mecânicas envolvem correr, atirar e pular sobre obstáculos, usa-se o teclado e mouse para a execução desses movimentos.
-   - Sua contribuição: Fiz juntamente com mais duas pessoas toda a programação/lógica do jogo. Colocamos e organizamos toda a arte no jogo, bem como seu level design. A programação envolve a criação da lógica de login e tela de morte, bem como correr, atirar e pular. O jogo foi feito na Engine Unity e usamos a linguagem C#.
+   - Descrição: Jogo de plataforma 2D criado em 3 dias. Corra, atire e pule para derrotar robôs e coletar itens.
+   - Minha contribuição: Programação/lógica do jogo na Engine Unity.
+
+Sinta-se à vontade para explorar esses jogos e entre em contato se quiser saber mais sobre minha contribuição em cada um deles. 🕹️
+
+
 
 - [Blog Pessoal](https://seublog.com)
 
