@@ -26,10 +26,12 @@ Neste repositório, você encontrará uma variedade de projetos relacionados ao 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-dos-santos-de-jesus-746207230/)
 
 ## Portfólio de Jogos 🎮
+
 1. Jogo de Visual Novel: ALENKAR A ORIGEM PART 1
 
    - Descrição: Uma história envolvente que segue Mark Alenkar, um jovem águia careca, enquanto ele desvenda um sonho profético misterioso. Exploração e enigmas esperam por você.
    - Minha contribuição: Responsável pela programação/lógica do jogo na Engine Ren'py.
+   - Link para o Jogo: [Acesse o Jogo](https://brunogamedev.itch.io/alenkar-a-origem-part-1)
 
 2. Jogo de Tabuleiro: O Grande Roubo
 
@@ -40,11 +42,15 @@ Neste repositório, você encontrará uma variedade de projetos relacionados ao 
 
    - Descrição: Jogo de plataforma 2D com a raposa Raijin e controle de elementos.
    - Minha contribuição: Programação/lógica do jogo na Engine Unity.
+   - Link para o Jogo: [Acesse o Jogo](https://brunogamedev.itch.io/as-aventuras-de-raijin-the-elements1)
 
 4. Jogo de Plataforma 2D (Evento "GameJAN"): A Última Esperança
 
    - Descrição: Jogo de plataforma 2D criado em 3 dias. Corra, atire e pule para derrotar robôs e coletar itens.
    - Minha contribuição: Programação/lógica do jogo na Engine Unity.
+   - Link para o Jogo: [Acesse o Jogo](https://brunogamedev.itch.io/a-ltima-esperana)
+
+Sinta-se à vontade para explorar esses jogos e entre em contato se quiser saber mais sobre minha contribuição em cada um deles. 🕹️
 
 Sinta-se à vontade para explorar esses jogos e entre em contato se quiser saber mais sobre minha contribuição em cada um deles. 🕹️
 
