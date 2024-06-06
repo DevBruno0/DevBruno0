@@ -4,7 +4,7 @@ Indie Game Developer | 🎓 Technical Diploma in Digital Game Programming
 
 ## About Me
 
-Hello! My name is Bruno, and I am an indie game development enthusiast. I have a passion for creating interactive and exciting experiences through game development. My journey into the world of games began when I earned my Technical Diploma in Digital Game Programming from Ceet Vasco Coutinho, and since then, I have been exploring various areas of game development.
+Hello! My name is Bruno, and I am an indie game development enthusiast. I have a passion for creating interactive and exciting experiences through game development. My journey into the world of games began when I earned my Technical Diploma in Digital Game Programming from Ceet Vasco Coutinho, and since then, I have been exploring various areas of game development. 🎮✨
 
 ## Skills
 
